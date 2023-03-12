@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 💬 Ask me about **Python or Javascript**
-
 - 📫 How to reach me **cawe219@gmail.com**
 
 - ⚡ Fun fact **Red Dead Redemption 2 is my favorite game**
