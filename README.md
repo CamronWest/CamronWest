@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xPacman/0xPacman/master/cube.gif" alt="loading..." />
+  <img src="https://raw.githubusercontent.com/0xPacman/0xPacman/master/trans.gif" alt="loading..." />
 </p>
 
 <h1 align="center">Hi 👋, I'm Camron West</h1>
