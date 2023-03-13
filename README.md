@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xPacman/0xPacman/master/cube.gif" alt="loading..." />
+</p>
+
 <h1 align="center">Hi 👋, I'm Camron West</h1>
 <h3 align="center">A passionate backend(python) developer from Indiana</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/andrei811/donut-shape-console/main/image/donut.gif">
+
 
 - 🌱 I’m currently learning **Flask**
 
