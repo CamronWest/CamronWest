@@ -1,10 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/0xPacman/0xPacman/master/spin.gif" alt="loading..." />
 </p>
-
-<h1 align="center" style="font-size: 2rem; font-weight: bold; text-align: center; color: #333; margin-top: 1rem; margin-bottom: 1rem;">“Every deep thinker is more afraid of being understood than of being misunderstood.”
-  <p align="right" heigt="35" width="40">― Friedrich Neitzsche</p>
-</h1>
+ “Every deep thinker is more afraid of being understood than of being misunderstood.”
+      
+      - Friedrich Neitzsche
 
 <h3 align="center">A passionate backend(python) developer from Indiana</h3>
 
