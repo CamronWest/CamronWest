@@ -2,7 +2,10 @@
   <img src="https://raw.githubusercontent.com/0xPacman/0xPacman/master/spin.gif" alt="loading..." />
 </p>
 
-<h1 align="center">Hi 👋, I'm Camron West</h1>
+<h1 align="center" style="font-size: 2rem; font-weight: bold; text-align: center; color: #333; margin-top: 1rem; margin-bottom: 1rem;">“Every deep thinker is more afraid of being understood than of being misunderstood.”
+  <p align="right" heigt="35" width="40">― Friedrich Neitzsche</p>
+</h1>
+
 <h3 align="center">A passionate backend(python) developer from Indiana</h3>
 
 
@@ -16,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/camronwest15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camronwest" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/camron-west-15691120b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camronwest" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/camron-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camron-dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
