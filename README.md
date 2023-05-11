@@ -8,7 +8,7 @@
 <h3 align="center">A passionate backend(python) developer from Indiana</h3>
 
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **cawe219@gmail.com**
 
