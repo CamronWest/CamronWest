@@ -5,7 +5,7 @@
       
       - Friedrich Neitzsche
 
-<h3 align="center">A passionate backend(python) developer from Indiana</h3>
+<h3 align="center">A passionate backend developer from Indiana</h3>
 
 
 - 🌱 I’m currently learning **AWS**
