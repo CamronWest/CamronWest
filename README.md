@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **cawe219@gmail.com**
 
-- ⚡ Fun fact **Red Dead Redemption 2 is my favorite game**
+- ⚡ Fun fact **Red Dead Redemption 2 is my favorite gam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
