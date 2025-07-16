@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PAGfkq92--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dod4won8h8hz088tuee5.gif" alt="loading..." />
+  <img src="https://raw.githubusercontent.com/0xPacman/0xPacman/master/spin.gif" alt="loading..." />
 </p>
  “Try to make sense of what you see,and wonder about what makes the universe exist.
 Be curious.”
