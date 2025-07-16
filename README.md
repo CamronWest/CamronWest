@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PAGfkq92--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dod4won8h8hz088tuee5.gif" alt="loading..." />
 </p>
- “Every deep thinker is more afraid of being understood than of being misunderstood.”
+ “Try to make sense of what you see,and wonder about what makes the universe exist.
+Be curious.”
       
-      - Friedrich Neitzsche
+      - Stephen Hawking
 
 <h3 align="center">A passionate engineer from Indiana</h3>
 
